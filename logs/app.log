@@ -6,3 +6,6 @@
 [2023-09-09 00:24:07] [INFO] [entry]: GET [/api] - 1ms
 [2023-09-09 00:24:18] [INFO] [entry]: GET [/] - 0ms
 [2023-09-09 00:24:18] [INFO] [entry]: GET [/] - 0ms
+[2023-09-09 16:15:32] [INFO] [entry]: GET [/] - 2ms
+[2023-09-09 16:15:32] [INFO] [entry]: GET [/] - 0ms
+[2023-09-09 16:15:33] [INFO] [entry]: GET [/favicon.ico] - 0ms
